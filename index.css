@@ -1,0 +1,25 @@
+.box{
+    background-color: rgba(101, 63, 63, 0.928);
+    padding-top: 20px;
+}
+.row{
+    color: bisque;
+    text-align: center;
+    margin-top: 20px;
+}
+.col-md-6{
+    text-align: center;
+    
+}
+i{
+    color: black;
+}
+.container-3{
+    background-color: rgb(23, 112, 195);
+}
+.h2{
+    font-weight: bold;
+}
+.h4{
+    font-weight: bold;
+}
